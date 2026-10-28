@@ -10,6 +10,8 @@ A tiny Node.js app used for a **CI/CD debugging exercise** with GitHub Actions.
 `src/math.js` exports three pure functions — `add`, `isEven`, and `formatName` —
 covered by tests in `test/math.test.js`. Run them locally with:
 
+
+
 ```bash
 npm test
 ```
